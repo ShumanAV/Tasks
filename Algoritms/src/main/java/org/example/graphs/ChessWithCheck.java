@@ -49,7 +49,7 @@ public class ChessWithCheck {
             // проверяем координаты текущего хода на равенство с координатами выхода, если равны выводим уровень координат в
             // консоль и останавливаем цикл
             if (EXIT.equals(currentXY)) {
-                System.out.println(currentXY.getLevel());
+                System.out.println("Уровень слоя: " + currentXY.getLevel());
                 System.out.println("Количество операций:" + countOperations);
                 break;
             }
