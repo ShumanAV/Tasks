@@ -1,4 +1,4 @@
-package org.example.graphs;
+package org.example.graphs.chess;
 
 import java.util.Arrays;
 import java.util.Iterator;
