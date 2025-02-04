@@ -1,4 +1,4 @@
-package org.example.mergeSort;
+package org.example.sort.mergeSort;
 
 import java.util.ArrayList;
 import java.util.Arrays;
