@@ -1,5 +1,6 @@
 package org.example.arrays.flipOverArr;
 
+import java.io.Closeable;
 import java.util.Arrays;
 
 /*
@@ -20,5 +21,15 @@ public class App {
         }
         return arr;
     }
+}
+
+abstract class AAA {
+    protected AAA() {
+
+    }
+    public abstract void mmm ();
+
+
+
 }
 
